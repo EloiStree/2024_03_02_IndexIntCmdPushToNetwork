@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.eloistree.indexintcmdtonetworkEditor",          
+    "references": ["be.eloistree.indexintcmdtonetwork"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   
